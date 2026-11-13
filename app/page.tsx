@@ -260,8 +260,8 @@ export default function Home() {
       <header className="border-b border-paper-line">
         <div className={`${CONTAINER} flex h-20 items-center gap-3`}>
           <a href="/" className="flex shrink-0 items-center gap-2.5">
-            <Logo className="h-7 w-7 shrink-0" />
-            <span className="text-[15px] font-medium tracking-[-0.01em] text-warm-ink">
+            <Logo className="h-[30px] w-[30px] shrink-0" />
+            <span className="text-[18px] font-medium tracking-[-0.01em] text-warm-ink">
               多元拼图
             </span>
           </a>
